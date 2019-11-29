@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity-Android-Microsoft-Vision-Api", "Assembly-CSharp.csproj", "{ABB13F6C-6942-7216-C4B4-6DE5A9476249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity-Android-Microsoft-Vision-Api", "Assembly-CSharp-Editor.csproj", "{C6A8712F-98D7-C958-B8A1-EBB54980B7BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB13F6C-6942-7216-C4B4-6DE5A9476249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB13F6C-6942-7216-C4B4-6DE5A9476249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB13F6C-6942-7216-C4B4-6DE5A9476249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB13F6C-6942-7216-C4B4-6DE5A9476249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6A8712F-98D7-C958-B8A1-EBB54980B7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A8712F-98D7-C958-B8A1-EBB54980B7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A8712F-98D7-C958-B8A1-EBB54980B7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A8712F-98D7-C958-B8A1-EBB54980B7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
